@@ -24,7 +24,7 @@
 <td colspan="2"  align="center" >
 <input type="submit" value="ingresar">
 </td>
-
+<p align="center">Bienvenido</p>
 </tr>
 </table>
 
